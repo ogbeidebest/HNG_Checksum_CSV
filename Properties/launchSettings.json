@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "CSV_Checksum": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\hp\\OneDrive\\Desktop\\HNG\\Csv_Check\\CSV\" sample_input.csv"
+
+    }
+  }
+}
